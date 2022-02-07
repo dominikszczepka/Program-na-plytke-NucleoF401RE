@@ -1,0 +1,3 @@
+mcpa.c:31:6:MCPA_dataLog	24	static
+mcpa.c:148:6:MCPA_flushDataLog	24	static
+mcpa.c:187:9:MCPA_cfgLog	32	static
